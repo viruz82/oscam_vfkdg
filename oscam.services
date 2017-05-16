@@ -1,135 +1,48 @@
-[kd_hdtv_basis_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C387,C37D,C382,C36F,C375,C359,C378,C372,C385,C38B,C35F,C35C,C35B,C36D,C362,C365,C363,C35A,C36C,C37B,C35D,C37E
-[kd_sdtv_basis_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C757,C75C,D046,D049,D04B,C75F,C762,C759,D10E,C764,C760,C75D,D04D,C75E,D03B,C75A,C75B,D03A,C761,CF7F,D16F,D04A,D106
-[kd_radio_basis_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C4E2,C4E8,C4E5,C4E6,C4E4
-[kd_hdtv_vielfalt_hd_extra]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C38C,C398,C383,C381,C36E,CF16,C386
-[kd_sdtv_vielfalt_hd_extra]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C619,D03E,D036,C615,C483,C3B8,CF12,C3BF,CF70,D0A4,C613,C610,CF73,CF0B,D0A3,C481,C482,D16B
-[kd_hdtv_vielfalt_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C354,C367,C37F,C360,C384,C357,C371,C368,C370,C356,C353,C364,C366,C355,C358,C352,C361,C351,C373
-[kd_sdtv_vielfalt_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C3BB,C480,D09C,C617,D0A1,D035,C3BC,C614,D0A5,D099,C47D,C3BA,C618,D0A2,C47F,C3B9
-[kd_radio_vielfalt_hd]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C437,C441,C420,C443,C42B,C439,C438,C447,C41C,C43C,C425,C42D,C41E,C419,C4EA,C442,C41F,C43B,C445,C446,C433,C430,C432,C43A,C424,C423,C41A,C427,C43F,C42E,C42F
-[kd_tv_englisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = D09A,CF6D,D09F,C612,D109,CF74,D0A0,D048,CFD8,CF71
-[kd_radio_englisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C4E3
-[kd_tv_türkisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = CFD3,CFD5,CFDA,D100,D0FE,D0FD,D107
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = D172
-[kd_radio_türkisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C4E9
-[kd_tv_polnisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = CF72,CFD4
-[kd_tv_spanisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = D105,D104
-[kd_tv_portugiesisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = CFD6
-[kd_tv_italienisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = D101,D102,D103
-[kd_tv_russisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = D108,D0FF,CFD2,CFDC,CFD1
-[kd_tv_griechisch]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = CFD9
-[kd_hdtv_komplett]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C387,C37D,C382,C36F,C375,C359,C378,C372,C385,C38B,C35F,C35C,C35B,C36D,C362,C365,C363,C35A,C36C,C37B,C35D,C38C,C398,C383,C381,C36E,CF16,C386,C354,C367,C37F,C360,C384,C357,C371,C368,C370,C356,C353,C364,C366,C355,C358,C352,C361,C351,C373,C37E
-[kd_sdtv_komplett_ohne_internationale_senderpakete]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = C757,C75C,D046,D049,D04B,C75F,C762,C759,D10E,C764,C760,C75D,D04D,C75E,D03B,C75A,C75B,D03A,C761,CF7F,D16F,D04A,D106,C619,D03E,D036,C615,C483,C3B8,CF12,C3BF,CF70,D0A4,C613,C610,CF73,CF0B,D0A3,C481,C482,D16B,C3BB,C480,D09C,C617,D0A1,D035,C3BC,C614,D0A5,D099,C47D,C3BA,C618,D0A2,C47F,C3B9
-[kd_tv_sonstiges]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = CF1C
-[sky_hdtv_welt]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0082,0084,007C,0076,0070,006C,007B,0093
-[sky_sdtv_welt_starter]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0015,0018,000E,001A,001C,0010,0206,0016,0013,00A8,000D,000C,001B,001D,0017,0011,0034,0024,0032,002A,0198
-[sky_hdtv_film]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 006F,0074,006E,0083,006B
-[sky_sdtv_film]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0019,0203,0009,0022,000A,000B,002B,0008,0014,0029,0204
-[sky_hdtv_sport]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0081,0072,010C,0116,0120,010E,0118,0122
-[sky_sdtv_sport]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
+[hdplus]
+caid                          = 1830,1843,09C4,098C
+provid                        =
+srvid                         = EF10,EF11,EF14,1581,EF15,EF74,EF75,EF76,EF77,5273,5274,1519,277E,2E9B,151A,157F,EF78,157C,2774,2EAF,2777,30D4,0002,1392,30D6
+[SAT-SKY-Starter]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 002A,0039,0015,0018,000E,001C,001A,0010,0206,0016,0013,00A8,000C,000D,0026,001D,001B,2EC3,0017,0034,0024,0032,0193,0194,0191,0198
+[SAT-SKY-Entertainment]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0022,007F,0082,008A,0080,0084,007C,0076,0071,0070,008C,006E,0089,007E,0088,007B,0065,0090,0091,0093
+[SAT-SKY-Cinema]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 000A,000B,002B,0009,0008,0014,0204,0019,0029,0196,0195,0197
+[SAT-SKY-CinemaHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0074,006B,006F,0083,0086,0087,008B
+[SAT-SKY-SportSD]
+caid                          = 09C4,098C
+provid                        =
 srvid                         = 001E,00DD,00DE,0107,0111,011B,0125,012F,0139,0143,014D,00FD
-[sky_hdtv_bundesliga]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0069,010B,0115,011F
-[sky_sdtv_bundesliga]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
+[SAT-SKY-SportHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         =  006D,0081,0072,010C,0116,0120,012A,0134,013E,0148,0152,0102,007A,0077,010E,0118,0122,012C,0136,0140,014A,0154,0104,0135,008F,0229
+[SAT-SKY-BundesligaSD]
+caid                          = 09C4,098C
+provid                        =
 srvid                         = 00DF,0106,0110,011A,0124,012E,0138,0142,014C,00FC
-[sky_sdtv_blue_movie]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0201,0159,0163,016D
-[sky_sdtv_select]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 00FB,0105,010F,0119,0123,012D,0137,0141,014B,00FE,014E
-[sky_hdtv_komplett]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0082,006F,0084,010E,0118,0122,007C,0076,0070,0074,006E,0069,010B,0115,011F,0083,006B,0081,0072,010C,0116,0120,006C,007B,0093
-[sky_sdtv_komplett]
-caid                          = 09C7,1722,1834,1801,1861
-provid                        = 000401,000000
-srvid                         = 0015,0201,0159,0163,016D,0018,000E,0019,001A,001C,0010,0206,0016,0203,00A8,000C,000D,001B,001D,0009,0022,00DF,0106,0110,011A,0124,012E,0138,0142,014C,00FC,000A,000B,002B,0008,0014,0029,0017,0204,00DD,00DE,0107,0111,011B,0125,012F,0139,0143,014D,00FD,001E,0011,00FB,0105,010F,0119,0123,012D,0137,0141,014B,00FE,014E,0034,0024,0032,002A,0198
+[SAT-SKY-BundesligaHD]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0066,0069,010B,0115,011F,0129,0133,013D,0147,0151,0101,0228
+[SAT-SKY-BlueMovie]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0201,0159,0163,016D,0079
+[SAT-SKY-Select]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0012,00FB,0105,010F,0119,0123,012D,0137,0141,014B,00FE,014E,0078,0192,008E
+[SAT-SKY-Sonstige]
+caid                          = 09C4,098C
+provid                        =
+srvid                         = 0075,325F
